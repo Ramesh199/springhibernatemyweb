@@ -16,6 +16,12 @@
 
 
 	<dependencies>
+		<!-- Link back-end project -->
+		<dependency>
+			<groupId>com.ramesh199</groupId>
+			<artifactId>backend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 
 		<!-- JAVA EE API -->
 		<dependency>
@@ -44,7 +50,7 @@
 			<artifactId>standard</artifactId>
 			<version>1.1.2</version>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
